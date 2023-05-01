@@ -1,0 +1,34 @@
+{
+  "name": "expressjs-todo-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanmiadev/expressjs-todo-backend.git"
+  },
+  "keywords": [
+    "hasanmiadev",
+    "hasanmiaweb",
+    "expressjs-todo-backend",
+    "todo-backend",
+    "simple-todo-backend"
+  ],
+  "author": "MD. HASAN MIA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanmiadev/expressjs-todo-backend/issues"
+  },
+  "homepage": "https://github.com/hasanmiadev/expressjs-todo-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
